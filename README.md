@@ -10,6 +10,8 @@ Use `yarn` to unplug packages
 yarn
 ```
 
+If you have ts errors in vscode or intellij, use `yarn sdk`.
+
 ## How to start
 
 ```

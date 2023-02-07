@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "sdk": "yarn dlx @yarnpkg/sdks base && yarn dlx @yarnpkg/sdks vscode && yarn plugin import typescript"
   },
   "dependencies": {
     "react": "^18.2.0",
