@@ -1,11 +1,14 @@
-# vite-fe
+# vite-berry-react-ts
 
 The React + Typescript + yarn berry + Vite project.
 
 ## How to install
 
+Use `yarn` to unplug packages
+
 ```
-Just clone repository. This uses yarn berry zero install.
+yarn
+
 ```
 
 ## How to start
