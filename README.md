@@ -1,6 +1,6 @@
 # vite-berry-react-ts
 
-The React + Typescript + yarn berry + Vite project.
+Vite + yarn berry + React + Typescript project.
 
 ## How to install
 
@@ -8,7 +8,6 @@ Use `yarn` to unplug packages
 
 ```
 yarn
-
 ```
 
 ## How to start
