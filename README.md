@@ -2,6 +2,10 @@
 
 Vite + yarn berry + React + Typescript project.
 
+## Linaria
+
+Apply **Linaria** which is zero-runtime css-in-js library. Linaria's usage is similar to emotion.
+
 ## How to install
 
 Use `yarn` to unplug packages

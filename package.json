@@ -10,14 +10,25 @@
     "sdk": "yarn dlx @yarnpkg/sdks base && yarn dlx @yarnpkg/sdks vscode && yarn plugin import typescript"
   },
   "dependencies": {
+    "@linaria/babel-preset": "^4.4.1",
+    "@linaria/core": "^4.2.6",
+    "@linaria/react": "^4.3.4",
+    "@linaria/vite": "^4.2.7",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "@babel/preset-typescript": "^7.18.6",
+    "@types/babel__core": "^7",
+    "@types/babel__preset-env": "^7",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-react": "^3.1.0",
     "@yarnpkg/sdks": "^3.0.0-rc.38",
+    "esbuild": "^0.17.6",
     "typescript": "^4.9.3",
     "vite": "^4.1.0"
   },
